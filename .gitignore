@@ -2,3 +2,5 @@ prepros.config
 /.vscode/
 sass.txt
 .prettierignore
+node_modules
+.parcel-cache
