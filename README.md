@@ -10,7 +10,7 @@
 
 ### BetterDiscord
 
-1. Go [here](https://nobodyno-boop.github.io/Comfy/betterdiscord/comfy-theme.css)
+1. Go [here](https://nobodyno-boop.github.io/Comfy/betterdiscord/comfy.theme.css)
 2. Save the file into your theme folder
 
 ## 🖌️ Customization

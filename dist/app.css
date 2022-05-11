@@ -933,20 +933,16 @@
   padding: 54px 16px 16px;
 }
 
-:root .userPopout-2j1gM4 .userInfoSection-3her-v {
-  padding: 18px;
-}
-
 :root .userPopout-2j1gM4 .body-2wLx-E {
   padding: 0 !important;
 }
 
-:root .userPopout-2j1gM4 .body-2wLx-E .customStatus-3XAoF9, :root .userPopout-2j1gM4 .body-2wLx-E .aboutMeSection-PUghFQ {
+:root .userPopout-2j1gM4 .body-2wLx-E .customStatus-3XAoF9, :root .userPopout-2j1gM4 .body-2wLx-E .userInfoSection-3her-v {
   margin: 0;
   padding: 0 16px 16px;
 }
 
-:root .userPopout-2j1gM4 .body-2wLx-E userInfoSection-3her-v .divider-1wtgZ3 {
+:root .userPopout-2j1gM4 .body-2wLx-E .divider-1wtgZ3 {
   display: none;
 }
 
